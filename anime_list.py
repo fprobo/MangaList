@@ -10,7 +10,7 @@ headers = {
 with open('list.txt') as file:
     lines = file.read().splitlines()
 
-tick = 1 if len(lines) > 60 else 0.5
+tick = 2 if len(lines) > 60 else 1
 
 with open('data.json', 'w') as f:
     with alive_bar(len(lines), force_tty=True) as bar:
