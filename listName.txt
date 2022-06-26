@@ -11,6 +11,7 @@
 42, dragon ball
 51, slam dunk
 142, battle royale
+401, kiseijuu
 436, uzumaki
 743, 21th century boys
 745, pluto
@@ -34,5 +35,6 @@
 21602, la montagna magica
 23390, attack of titan
 46114, sanpo mono
+110313, mujirushi
 138673, look back
 145863, sayonara eri
