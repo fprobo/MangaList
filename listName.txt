@@ -11,6 +11,7 @@
 42, dragon ball
 51, slam dunk
 142, battle royale
+336, GTO
 401, kiseijuu
 436, uzumaki
 743, 21th century boys
@@ -29,9 +30,12 @@
 7404, visione d'inferno
 10179, ai tempi di papà
 11054, billy bat
+11273, la nuova isola del tesoro
+16893, tezuka secondo me
 17353, a girl on the shore
 17462, dousei jidai
 19969, l'uomo senza talento
+21467, il cane che guardava le stelle
 21602, la montagna magica
 23390, attack of titan
 46114, sanpo mono
